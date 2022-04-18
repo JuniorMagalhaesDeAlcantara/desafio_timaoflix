@@ -1,4 +1,4 @@
-# desafio_timaoflix
+# TIMÃOFLIX
 Recriando a Interface Netflix com um toque corintiano
 
 Chegou o  serviço exclusivo de streaming para o bando de loucos!
